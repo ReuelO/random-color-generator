@@ -2,7 +2,9 @@
 
 ## Random Color Generator
 
-[Website](https://reuelo.github.io/random-color-generator/)
+![Demo Image](demo.png)
+
+[Demo Website](https://reuelo.github.io/random-color-generator/)
 
 This is a basic website (built using HTML, CSS and jQuery) for generating and displaying random colors from a bunch.
 

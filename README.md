@@ -1,6 +1,4 @@
-# random-color-generator
-
-## Random Color Generator
+# Random Color Generator
 
 ![Demo Image](demo.png)
 
